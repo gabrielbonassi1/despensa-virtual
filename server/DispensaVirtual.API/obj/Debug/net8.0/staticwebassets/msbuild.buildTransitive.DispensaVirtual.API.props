@@ -1,3 +1,0 @@
-<Project>
-  <Import Project="../buildMultiTargeting/DispensaVirtual.API.props" />
-</Project>
