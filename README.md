@@ -1,4 +1,4 @@
-### Dispensa Virtual (Virtual Pantry)
+### Despensa Virtual (Virtual Pantry)
 
 #### Stack:
 - **Frontend:** React Native (Expo)
