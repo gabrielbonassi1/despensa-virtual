@@ -74,3 +74,12 @@ export interface HouseholdMember {
   updatedAt: number;
   isDeleted: boolean;
 };
+
+export interface Category {
+  id: string; // UUID
+  householdId: string;
+  name: string;
+  createdAt: number;
+  updatedAt: number;
+  isDeleted: boolean;
+}
